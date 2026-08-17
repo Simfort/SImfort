@@ -75,10 +75,10 @@ I build fullstack applications with a strong focus on maintainability and scalab
 - 📝 **Email**: [lemo]
 
 <div align="center">
-  <a href="https://t.me/[your_telegram_username]">
+  <a href="https://t.me/simfart">
     <img src="https://img.shields.io/badge/Chat%20on%20Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram-badge">
   </a>
-  <a href="https://github.com/[your_github_username]">
+  <a href="https://github.com/Simfort">
     <img src="https://img.shields.io/badge/GitHub%20Profile-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-badge">
   </a>
 </div>

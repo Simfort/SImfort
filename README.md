@@ -14,10 +14,10 @@
   <img src="https://media1.tenor.com/m/SuAza89boQMAAAAC/eris-eris-greyrat.gif">
 </div>
   <br/>
-  <a href="https://t.me/твой_ник_в_телеграме">
+  <a href="https://t.me/simfart">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" alt="telegram">
   </a>
-  <a href="https://github.com/твой_ник_на_github">
+  <a href="https://github.com/Simfort">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="github">
   </a>
  

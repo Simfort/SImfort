@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/mood-code%20first-orange" alt="mood">
   </div>
  <div >
-  <img src="https://media1.tenor.com/m/SuAza89boQMAAAAC/eris-eris-greyrat.gif">
+  <img src="https://media1.tenor.com/m/SuAza89boQMAAAAC/eris-eris-greyrat.gif" alt="Eris Greyrat">
 </div>
   <br/>
   <a href="https://t.me/simfart">

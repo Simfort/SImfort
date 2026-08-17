@@ -72,7 +72,7 @@ I build fullstack applications with a strong focus on maintainability and scalab
 
 - 💬 **Telegram**: [Message me](https://t.me/simfart)
 - 💼 **GitHub**: [Profile](https://github.com/Simfort)
-- 📝 **Email**: [lemo]
+- 📝 **Email**: [lemondzavadavid265@gmail.com]
 
 <div align="center">
   <a href="https://t.me/simfart">
